@@ -1,2 +1,2 @@
-# NBA-teams-K-means-clustering
-Finding relations between NBA teams and if possible to identify what makes a championship team
+# NBA-teams-Machine Learning
+In this project we shall attempt to analyze basketball teams over the years by employing basic machine learning algorithms such as k-means clustering and linear regression. 
